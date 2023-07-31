@@ -10,3 +10,9 @@
 2. Use space for jumping.
 
 ## Screenshots
+
+! [Starting point]
+(https://raw.githubusercontent.com/SayainAditya/Microgame/main/microgame%20screenshots/Screenshot%202023-07-31%20124809.png)
+
+! [In game]
+(https://raw.githubusercontent.com/SayainAditya/Microgame/main/microgame%20screenshots/Screenshot%202023-07-31%20124945.png)
